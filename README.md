@@ -76,15 +76,10 @@ bash /path/to/auto_backup_lxc.sh
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGARAM-/refs/heads/main/Screenshots/1.jpg)
-
-![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGARAM-/refs/heads/main/Screenshots/2.jpg)
-
-![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGARAM-/refs/heads/main/Screenshots/3.jpg)
-
-![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGARAM-/refs/heads/main/Screenshots/4.jpg)
-
-
+![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGRAM/refs/heads/main/Screenshot/1.jpg)
+![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGRAM/refs/heads/main/Screenshot/2.jpg)
+![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGRAM/refs/heads/main/Screenshot/3.jpg)
+![App Screenshot](https://raw.githubusercontent.com/sulthanullah/PROXMOX-BACKUP-AUTO-LXC-NOTIF-TELEGRAM/refs/heads/main/Screenshot/4.jpg)
 ## Sourcode Web Monitoring
 
  - [For Web Monitoring](https://github.com/sulthanullah/Website-Backup-Server-Monitoring-LXC)
